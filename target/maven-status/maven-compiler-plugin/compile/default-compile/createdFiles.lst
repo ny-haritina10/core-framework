@@ -1,1 +1,3 @@
-mg/nh/core/CoreApplication.class
+module/core/entities/BaseEntity.class
+module/core/CoreApplication.class
+module/core/services/IdGeneratorService.class

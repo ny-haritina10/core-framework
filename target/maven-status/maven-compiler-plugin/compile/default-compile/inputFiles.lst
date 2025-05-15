@@ -1,1 +1,3 @@
-/home/ny-haritina/Documents/Projects/ERP-Framework/core-framework/src/main/java/mg/nh/core/CoreApplication.java
+/home/ny-haritina/Documents/Projects/ERP-Framework/core-module/src/main/java/module/core/services/IdGeneratorService.java
+/home/ny-haritina/Documents/Projects/ERP-Framework/core-module/src/main/java/module/core/CoreApplication.java
+/home/ny-haritina/Documents/Projects/ERP-Framework/core-module/src/main/java/module/core/entities/BaseEntity.java
