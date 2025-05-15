@@ -10,7 +10,7 @@ import jakarta.persistence.PersistenceContext;
 public class IdGeneratorService {
 
     @PersistenceContext
-    private EntityManager entityManager;
+    private EntityManager entityManager;    // used for custom db queries
 
     @Transactional
     public String generate(String prefix, String sequenceName) {
